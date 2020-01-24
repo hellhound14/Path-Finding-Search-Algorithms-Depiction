@@ -1,0 +1,9 @@
+C:\Users\Miss Chanandler Bong\source\repos\A\bin\Debug\A.exe.config
+C:\Users\Miss Chanandler Bong\source\repos\A\bin\Debug\A.exe
+C:\Users\Miss Chanandler Bong\source\repos\A\bin\Debug\A.pdb
+C:\Users\Miss Chanandler Bong\source\repos\A\obj\Debug\A.csprojAssemblyReference.cache
+C:\Users\Miss Chanandler Bong\source\repos\A\obj\Debug\A.Form1.resources
+C:\Users\Miss Chanandler Bong\source\repos\A\obj\Debug\A.Properties.Resources.resources
+C:\Users\Miss Chanandler Bong\source\repos\A\obj\Debug\A.csproj.GenerateResource.cache
+C:\Users\Miss Chanandler Bong\source\repos\A\obj\Debug\A.exe
+C:\Users\Miss Chanandler Bong\source\repos\A\obj\Debug\A.pdb
