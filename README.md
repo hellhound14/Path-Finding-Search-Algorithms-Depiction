@@ -8,7 +8,7 @@ This is a C# (Winforms) based application made to provide a decent depiction of 
 Just clone or download the repositiory and go into:
 
 ```
-bin\A.exe
+bin\Debug\A.exe
 ```
 
 ## Deployment
